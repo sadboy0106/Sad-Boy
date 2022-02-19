@@ -1,0 +1,12 @@
+{
+  "name": "SadBoy",
+  "version": "0.0.0",
+  "description": "",
+  "main": "sb1810.js",
+  "scripts": {
+  "start": "node sb1810.js"
+  },
+  "dependencies": {
+    "@adiwajshing/baileys": "^3.4.1"
+  }
+}
